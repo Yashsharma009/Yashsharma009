@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**Yashsharma009/Yashsharma009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Welcome to my GitHub profile!
+
+🔭 I'm currently working on projects that involve leveraging artificial intelligence and machine learning to solve real-world problems.
+
+💡 My repositories showcase my work in various domains, including image processing, data analysis, web development, and more.
+<div align="center">
+<p align="center">
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamkapoor172002&theme=dark" alt="shivamkapoor172002" /></p>
+
+
+
+</div>
+
+</div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashsharma009&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
